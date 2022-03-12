@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/images.jpg</file>
+        <file>img/adjectives.png</file>
+        <file>img/conjunction.jpg</file>
+        <file>img/interjection.jpg</file>
+        <file>img/nouns.jpg</file>
+        <file>img/peoples.jpg</file>
+        <file>img/preposition.png</file>
+        <file>img/verb.jpg</file>
+    </qresource>
+</RCC>
